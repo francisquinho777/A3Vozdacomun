@@ -218,6 +218,7 @@ Após a confirmação, o voto será computado automaticamente no sistema.
 
 ## Casos de uso principais:
 <img width="533" height="269" alt="Image" src="https://github.com/user-attachments/assets/e4546592-3434-4f38-992b-c5c17c34cdd7" />
+
 ## Estrutura de Banco (planejado)
 
 | Tabela                               | Campos                                                     | Descrição             |
@@ -286,6 +287,7 @@ Protótipo de autenticação de usuários e administradores, desenvolvido em Pyt
 <img width="1327" height="479" alt="Image" src="https://github.com/user-attachments/assets/22a59afd-e10e-4e33-aaf9-8e9e621718f1" />
 <img width="597" height="166" alt="Image" src="https://github.com/user-attachments/assets/3880cac4-5007-4e6d-a731-92ddb1601988" />
 <img width="422" height="241" alt="Image" src="https://github.com/user-attachments/assets/5069126b-ddf8-4639-a278-bc18f8785acc" />
+
 ## Tela de Login:
 
 <img width="697" height="463" alt="Image" src="https://github.com/user-attachments/assets/f8309694-b17f-4f08-a1a8-3310bac50062" />
