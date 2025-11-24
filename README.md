@@ -214,11 +214,10 @@ Após a confirmação, o voto será computado automaticamente no sistema.
 ## Modelagem
 **Diagrama de Casos de Uso**
 
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/7d8293197287c2c93218f14f2c9787da0bb74a76/a3voz/diagrama1.png)
+<img width="476" height="366" alt="Image" src="https://github.com/user-attachments/assets/b11a0ec0-3e4f-4724-bb34-56a7f66c6918" />
 
 ## Casos de uso principais:
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/diagrama2.png)
-
+<img width="533" height="269" alt="Image" src="https://github.com/user-attachments/assets/e4546592-3434-4f38-992b-c5c17c34cdd7" />
 ## Estrutura de Banco (planejado)
 
 | Tabela                               | Campos                                                     | Descrição             |
@@ -272,25 +271,28 @@ Disponibiliza a interface onde o cidadão pode escolher uma opção e registrar 
 Protótipo de autenticação de usuários e administradores, desenvolvido em Python com o objetivo de simular o controle de acesso ao sistema.
 
 ## Tela inicial (index):
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/index1.png)
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/index2.png)
-
+<img width="1321" height="600" alt="Image" src="https://github.com/user-attachments/assets/65d049bd-0dc2-4319-b56b-9a55a8f238e7" />
+<img width="1009" height="592" alt="Image" src="https://github.com/user-attachments/assets/fac073d4-ee17-43ee-9892-5d2c7224e701" />
 
 ## Tela de Detalhes: 
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/info_saude.png)
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/info_lim.png)
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/info_edu.png)
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/inf_esport.png)
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/info_brecho.png)
+<img width="1231" height="582" alt="Image" src="https://github.com/user-attachments/assets/317b73d5-bf89-40dc-b659-ad07dd5ab83f" />
+<img width="1192" height="510" alt="Image" src="https://github.com/user-attachments/assets/7fb26a20-3bbd-4392-bda2-b0afd6b3d44f" />
+<img width="1069" height="603" alt="Image" src="https://github.com/user-attachments/assets/b14ce4a2-9031-48af-834f-21d95045da3f" />
+<img width="989" height="512" alt="Image" src="https://github.com/user-attachments/assets/d1569621-7258-4cce-b276-863ecb817a53" />
+<img width="1042" height="502" alt="Image" src="https://github.com/user-attachments/assets/ebeaa371-79ee-468c-ac54-cacda0d22ec4" />
 
 ## Tela de Sistema de Votação:
 
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/votacao.png)
-
+<img width="1327" height="479" alt="Image" src="https://github.com/user-attachments/assets/22a59afd-e10e-4e33-aaf9-8e9e621718f1" />
+<img width="597" height="166" alt="Image" src="https://github.com/user-attachments/assets/3880cac4-5007-4e6d-a731-92ddb1601988" />
+<img width="422" height="241" alt="Image" src="https://github.com/user-attachments/assets/5069126b-ddf8-4639-a278-bc18f8785acc" />
 ## Tela de Login:
 
-![image alt](https://github.com/francisquinho777/projeto_A3_Lucena/blob/c74d3117bed5c36d2ca05ee4edde17ee0e88aa0c/a3voz/login.png)
+<img width="697" height="463" alt="Image" src="https://github.com/user-attachments/assets/f8309694-b17f-4f08-a1a8-3310bac50062" />
 
+## Tela de Login ADM:
+
+<img width="1366" height="605" alt="Image" src="https://github.com/user-attachments/assets/297f0f39-355b-46c8-a3f8-f81180cf4f82" />
 
 ## Padrões de Projeto 
 
