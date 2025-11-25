@@ -335,7 +335,9 @@ Portanto, este trabalho evidencia a importância de iniciativas que aproximem a 
 ## Acesso ao Site   GitHub Pages
 O projeto está hospedado e disponível para acesso através do GitHub Pages no link abaixo:
  https://francisquinho777.github.io/A3Vozdacomun/
-•	Usuário:  wedsonsilva
+
+
+•Usuário:  wedsonsilva
 •	Senha: 123456
 
 •	Admin: admin
