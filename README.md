@@ -332,6 +332,27 @@ O desenvolvimento do sistema “A Voz da Comunidade” demonstra como soluções
 Embora ainda esteja em processo de expansão e aperfeiçoamentos técnicos, o sistema já apresenta funcionalidades essenciais para o engajamento comunitário, como o registro de votos, gerenciamento de usuários e prototipação de interfaces. Com a implementação contínua de práticas como integração e versionamento de código, espera-se que o projeto se torne cada vez mais robusto, seguro e preparado para uso em situações reais.
 Portanto, este trabalho evidencia a importância de iniciativas que aproximem a população das decisões públicas, utilizando a tecnologia como meio para promover inclusão social e incentivar o exercício da cidadania. A perspectiva futura é ampliar as funcionalidades do sistema, aprimorar a segurança das informações e possibilitar que a plataforma se torne uma ferramenta efetiva de transformação social.
 
+## Acesso ao Site   GitHub Pages
+O projeto está hospedado e disponível para acesso através do GitHub Pages no link abaixo:
+ https://francisquinho777.github.io/A3Vozdacomun/
+•	Usuário:  wedsonsilva
+•	Senha: 123456
+
+•	Admin: admin
+•	Senha:654321
+
+ Repositório no GitHub
+O código-fonte completo do projeto está disponível no repositório abaixo:
+Repositório do Projeto:
+ https://github.com/francisquinho777/A3Vozdacomun.git
+
+
+
+
+## Considerações Finais
+Eu gostaria de informar que infelizmente não consegui deixar o projeto tão bom quanto eu queria. Decidi fazer o trabalho sozinho por motivos pessoais, e sei que ainda tem muita coisa que posso melhorar. Mesmo assim, estou feliz com o que consegui alcançar e com todo aprendizado que tive nesse tempo.
+Eu comecei este projeto há mais de um mês, mas tive muitas dificuldades. Tentei usar Django, Flask, PHP e até JavaScript para criar funcionalidades mais avançadas. Porém, quanto mais eu tentava, mais erros apareciam e mais complicado o projeto ficava. No final, optei por manter tudo em HTML e CSS para garantir que o site ficasse funcional e pudesse ser entregue.
+Mesmo com as limitações, foi muito importante para mim aprender a publicar no GitHub, organizar os arquivos e fazer o site funcionar. Sei que deixei a desejar em alguns pontos, mas o mais importante é que consegui evoluir, e isso me deixou bastante feliz.
 
 
 
