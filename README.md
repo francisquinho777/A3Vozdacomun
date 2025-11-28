@@ -349,7 +349,14 @@ Repositório do Projeto:
  https://github.com/francisquinho777/A3Vozdacomun.git
 
 
+## Pitch do Projeto — A Voz da Comunidade
 
+Para apresentar a proposta, funcionalidades e objetivos do sistema “A Voz da Comunidade”, foi desenvolvido um pitch em vídeo, disponível no link abaixo:
+
+ Assista ao Pitch no YouTube:
+https://youtu.be/o1VzQYTyox0?si=4ZqtxonnurPqi4PF
+
+O vídeo demonstra o conceito do projeto, o MVP desenvolvido e os impactos esperados na participação comunitária.
 
 ## Considerações Finais
 Eu gostaria de informar que infelizmente não consegui deixar o projeto tão bom quanto eu queria. Decidi fazer o trabalho sozinho por motivos pessoais, e sei que ainda tem muita coisa que posso melhorar. Mesmo assim, estou feliz com o que consegui alcançar e com todo aprendizado que tive nesse tempo.
